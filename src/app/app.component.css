@@ -1,0 +1,12 @@
+.Vector{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 37.5%;
+}
+.Logo{
+    position: absolute;
+    width: 900px;
+    height: 500px;
+    right: 0.01%;
+    top: 15%;
+}

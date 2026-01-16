@@ -1,0 +1,10 @@
+.MyClock{
+    position: absolute;
+    font-size: 100px;
+    left: 40%;
+    top: 40%;
+    background-color: aqua;
+}
+body{
+    background-color: black;
+}
